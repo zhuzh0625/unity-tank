@@ -1,5 +1,13 @@
 # 铁甲堡垒 · Iron Bastion
 
+> **项目已迁移至 unity-game**
+>
+> 本项目已于 2026-10-28 合并至 [zhuzh0625/unity-game](https://github.com/zhuzh0625/unity-game) monorepo。
+> 最新代码与后续开发请访问 [unity-game/unity-tank](https://github.com/zhuzh0625/unity-game/tree/main/unity-tank)。
+> 问题反馈和 Pull Request 请提交到新仓库；本仓库停止维护，仅保留历史代码和版本供查阅。
+>
+> 在 Unity Hub 中打开新仓库的 `unity-tank/` 子目录。以下保留原项目说明。
+
 Unity + Blender 制作的 Windows 单人 3D 坦克防守游戏。玩法参考 FC《坦克大战》：四方向移动、朝车头射击、摧毁敌军并保卫南侧指挥部。模型、地图和界面为本项目制作，不包含原游戏素材。
 
 ## 直接玩
